@@ -88,7 +88,7 @@ backgrounds)
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/ShreyaVijaykumar/AgeWell-Admin-Portal
-cd goodlife-foundation
+cd agewell-foundation
 ```
 
 ### 2️⃣ Install Dependencies
@@ -102,6 +102,7 @@ python app.py
 ```
 - Visit **http://127.0.0.1:5000/ or corresponding port**
 - The SQLite database goodlife_schema.db is created automatically.
+
 
 
 
